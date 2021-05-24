@@ -35,7 +35,7 @@
 
 ## Configuração
 
-- Clone Repository `ee`
+- Clone Repository `https://github.com/lucasfg3ds/operacoes.git`
 
 - Importar database `operacoes.sql` no phpMyAdmin
 
